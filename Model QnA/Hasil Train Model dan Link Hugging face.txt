@@ -1,0 +1,8 @@
+Hasil train model dapat dilihat pada google drive berikut :
+
+https://drive.google.com/drive/folders/1HeLlH7yR0nYqwyBfi0bBXePXFnc-LTSQ?usp=sharing
+
+
+Link model di Hugging Face :
+
+https://huggingface.co/SwastyMaharani/fine-tuned-tradisi-bali
